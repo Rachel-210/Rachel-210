@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou Lia Rachel! 👋
 
 ### 🚀 Estudante de Engenharia de Software (3º Período)
 Atualmente focado em unir tecnologia e impacto social. Busco minha primeira oportunidade de **estágio** para aplicar meus conhecimentos em desenvolvimento e gestão de projetos.
@@ -17,12 +17,12 @@ Atualmente focado em unir tecnologia e impacto social. Busco minha primeira opor
 
 ### 📂 Projetos em Destaque:
 
-#### 🧩 [App de Apoio para Clínicas de Autismo (Documentação Completa)](link-do-repo)
+#### 🧩 [App de Apoio para Clínicas de Autismo (Documentação Completa)](https://github.com/Rachel-210/TEAHub-project)
 Este projeto está em fase de pré-desenvolvimento, com foco total em **Engenharia de Requisitos** e **Arquitetura**.
 * **Liderança & Planejamento:** Atuei na concepção do produto, definindo personas e fluxos de usuário para o ambiente clínico.
 * **Documentação Técnica:** Elaboração de Backlog, Casos de Uso e Protótipos (disponíveis no repositório).
 
-#### 🏍 [Catálogo Dinâmico de Vendas](link-do-repo)
+#### 🏍 [Catálogo Dinâmico de Vendas](https://github.com/Rachel-210/Catalogo_De_Vendas)
 Landing page interativa para exposição de motos e cálculos de consórcio.
 * **Tecnologias:** HTML, CSS, JavaScript.
 * **Diferencial:** Implementação de uma solução de "Backend-less" integrada à **API do Google Sheets**, permitindo que o cliente gerencie preços e estoque de forma autônoma e em tempo real.
@@ -40,4 +40,7 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 * 💼 **LinkedIn:** https://www.linkedin.com/in/lia-rachel-ferreira-a10267399
 * 📧 **Email:** rachellfs29@gmail.com
 
-"O código é o que faz o software rodar, mas a documentação é o que faz o software durar."
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rachel-210&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-210&layout=compact&theme=gruvbox" />
+</div>
