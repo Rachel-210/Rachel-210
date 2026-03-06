@@ -36,11 +36,15 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 
 ---
 
-### 📫 Vamos conversar?
-* 💼 **LinkedIn:** https://www.linkedin.com/in/lia-rachel-ferreira-a10267399
-* 📧 **Email:** rachellfs29@gmail.com
+### 📈 Minhas Estatísticas:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rachel-210&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-210&layout=compact&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-210&layout=compact&theme=dracula" />
 </div>
+
+---
+
+### 📫 Vamos conversar?
+* 💼 **LinkedIn:** https://www.linkedin.com/in/lia-rachel-ferreira-a10267399
+* 📧 **Email:** rachellfs29@gmail.com
