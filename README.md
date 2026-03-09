@@ -1,7 +1,7 @@
 # Olá, eu sou Lia Rachel! 👋
 
 ### 🚀 Estudante de Engenharia de Software (3º Período)
-Atualmente focado em unir tecnologia e impacto social. Busco minha primeira oportunidade de **estágio** para aplicar meus conhecimentos em desenvolvimento e gestão de projetos.
+Atualmente focada em melhorar minhas habilidades em progrmação. Busco minha primeira oportunidade de **estágio** para desenvolver novas habilidades.
 
 ---
 
