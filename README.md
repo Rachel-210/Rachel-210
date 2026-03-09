@@ -41,4 +41,6 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 * 📧 **Email:** rachellfs29@gmail.com
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel-210)
+![Estatísticas de Rachel-210](https://github-readme-stats.vercel.app/api?username=RACHEL-210&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHEL-210&layout=compact&theme=radical)
