@@ -1,7 +1,7 @@
 # Olá, eu sou Lia Rachel! 👋
 
 ### 🚀 Estudante de Engenharia de Software (3º Período)
-Atualmente focada em melhorar minhas habilidades em progrmação. Busco minha primeira oportunidade de **estágio** para desenvolver novas habilidades.
+Atualmente focada em melhorar minhas habilidades em programação. Busco minha primeira oportunidade de **estágio** para desenvolver experiência no ramo.
 
 ---
 
