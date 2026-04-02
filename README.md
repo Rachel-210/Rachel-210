@@ -45,14 +45,6 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 ---
 
 ### 📊 Estatísticas
-<p>
-      <img
-          align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rachel-210&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_color=FFFFFFE&locale=pt-br"
-        />
 <br/>
       <img
           align="left" 
