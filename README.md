@@ -12,7 +12,10 @@ Atualmente focada em melhorar minhas habilidades em programação. Busco minha p
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ### 📂 Projetos em Destaque:
@@ -39,68 +42,6 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 ### 📫 Vamos conversar?
 * 💼 **LinkedIn:** https://www.linkedin.com/in/lia-rachel-ferreira-a10267399
 * 📧 **Email:** rachellfs29@gmail.com
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    aling="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="margin-right: 70px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    aling="left" 
-    alt="Java"
-    title="Java" 
-    width="50px" 
-    style="margin-right: 70px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    aling="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="50px" 
-    style="margin-right: 70px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
-/>
-<img 
-    aling="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="margin-right: 70px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    aling="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="margin-right: 70px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    aling="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="margin-right: 70px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    aling="left" 
-    alt="VSCode" 
-    title="VSCode"
-    width="50px" 
-    style="margin-right: 70px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
-/>
-
 
 ---
 
