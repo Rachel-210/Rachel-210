@@ -39,3 +39,88 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 ### 📫 Vamos conversar?
 * 💼 **LinkedIn:** https://www.linkedin.com/in/lia-rachel-ferreira-a10267399
 * 📧 **Email:** rachellfs29@gmail.com
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    aling="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="Java"
+    title="Java" 
+    width="50px" 
+    style="margin-right: 70px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    aling="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="50px" 
+    style="margin-right: 70px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
+/>
+<img 
+    aling="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    aling="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="50px" 
+    style="margin-right: 70px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
+/>
+
+
+---
+
+### 📊 Estatísticas
+<p>
+      <img
+          align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rachel-210&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_color=FFFFFFE&locale=pt-br"
+        />
+<br/>
+      <img
+          align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rachel-210&langs_count=8&layout=compact&theme=dark&hide_border=false&border_color=FFFFFF&hide=Jupyter%20Notebook,Roff&locale=pt-br"
+        />
+</p>
+
+  <br/>
