@@ -31,10 +31,14 @@ Landing page interativa para exposição de motos e cálculos de consórcio.
 
 ---
 
-### 📈 Minhas Soft Skills & Diferenciais:
-* **Documentação:** Foco em clareza técnica e facilidade de manutenção.
-* **Liderança:** Experiência coordenando a visão do produto e prazos.
-* **Visão de Negócio:** Criação de soluções que o cliente final consegue operar facilmente (Ex: Integração com Sheets).
+## 🎯 Soft Skills & Diferenciais Técnicos
+
+Além de escrever código limpo e aplicar conceitos de Orientação a Objetos, trago para o desenvolvimento uma forte bagagem em dados e processos:
+
+*   **🗄️ Modelagem & Manipulação de Dados:** Experiência prática em bancos de dados relacionais (PostgreSQL), atuando na modelagem de tabelas, definição de relacionamentos, chaves (PK/FK) e escrita de queries complexas (Joins). 
+*   **📝 Documentação Técnica & Engenharia de Requisitos:** Foco em clareza técnica. Desenvolvo documentações completas de arquitetura de software e dicionários de dados/diagramas de banco de dados, garantindo facilidade de manutenção para o time.
+*   **📐 Visão de Produto & Full Stack:** Criação de soluções ponta a ponta pensando no usuário final. Conecto de forma eficiente a lógica do Back-end às tabelas do banco e construo interfaces (Front-end) que facilitam a operação e visualização desses dados (como integrações dinâmicas).
+*   **⏱️ Liderança & Gestão de Prazos:** Experiência em coordenar o escopo do projeto, alinhar as entregas técnicas com a visão do produto e gerenciar cronogramas.
 
 ---
 
